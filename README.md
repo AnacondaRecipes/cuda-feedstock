@@ -151,9 +151,12 @@ Feedstock Maintainers
 
 * [@adibbley](https://github.com/adibbley/)
 * [@bdice](https://github.com/bdice/)
+* [@billysuh7](https://github.com/billysuh7/)
+* [@carterbox](https://github.com/carterbox/)
 * [@jakirkham](https://github.com/jakirkham/)
 * [@kmittman](https://github.com/kmittman/)
 * [@leofang](https://github.com/leofang/)
 * [@robertmaynard](https://github.com/robertmaynard/)
+* [@sisodia1701](https://github.com/sisodia1701/)
 * [@vyasr](https://github.com/vyasr/)
 
