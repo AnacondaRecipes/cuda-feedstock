@@ -1,4 +1,4 @@
-{% set version = "13.1.1" %}
+{% set version = "13.2.1" %}
 
 package:
   name: cuda
@@ -42,6 +42,7 @@ extra:
   skip-lints:
     - license_file_overspecified
   recipe-maintainers:
+    - hanzov69
     - carterbox
     - adibbley
     - billysuh7
