@@ -3,7 +3,6 @@ upstream_sources:
   - webpage:
       url: https://api.anaconda.org/package/conda-forge/cuda
       regex: '"version":\s*"([^"]+)"'
-    feedstock_branch: main
   - webpage:
       url: https://api.anaconda.org/package/conda-forge/cuda
       regex: '"version":\s*"(13\.1(?:\.\d+)*)"'
