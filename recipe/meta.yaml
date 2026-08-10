@@ -1,4 +1,4 @@
-{% set version = "13.2.1" %}
+{% set version = "13.2.2" %}
 
 package:
   name: cuda
@@ -40,8 +40,9 @@ about:
   dev_url: https://docs.nvidia.com/cuda/index.html
 
 extra:
+  skip-lints:
+    - deprecate_license_url
   recipe-maintainers:
-    - hanzov69
     - carterbox
     - adibbley
     - billysuh7
