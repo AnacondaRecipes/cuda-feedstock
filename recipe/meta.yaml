@@ -1,4 +1,4 @@
-{% set version = "13.2.1" %}
+{% set version = "13.2.2" %}
 
 package:
   name: cuda
@@ -41,7 +41,6 @@ about:
 
 extra:
   recipe-maintainers:
-    - hanzov69
     - carterbox
     - adibbley
     - billysuh7
